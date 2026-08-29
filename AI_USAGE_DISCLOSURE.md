@@ -1,5 +1,9 @@
 # AI Usage Disclosure
 
+**Author:** ARIGELA VIZAY SSAI
+
+**Engineering Challenge:** Toucan Payments – Customer Transaction Service
+
 I used ChatGPT as a supporting development and review tool while working on
 this assignment.
 
@@ -81,3 +85,7 @@ were tested using Postman.
 Before submission, I reviewed the implementation to ensure that I can explain
 the classes, business logic, validation rules, status transitions, exception
 handling, API design and automated tests.
+
+**ARIGELA VIZAY SSAI**
+
+This project was completed as part of the Toucan Payments engineering challenge.
