@@ -1,4 +1,7 @@
 # Customer Transaction Service
+**Author:** ARIGELA VIZAY SSAI
+
+**Engineering Challenge:** Toucan Payments – Customer Transaction Service
 
 ## 1. Problem Understanding
 
@@ -576,3 +579,9 @@ The four required operations were tested:
 - Get customer transactions
 
 The project is ready for the final submission checks after confirming the assigned candidate variant and preparing the AI Usage Disclosure.
+
+## Author
+
+**ARIGELA VIZAY SSAI**
+
+This project was completed as part of the Toucan Payments engineering challenge.
